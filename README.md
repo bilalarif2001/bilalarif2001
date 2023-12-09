@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bilal_Arif
-- 👀 I’m interested in React.js, Next.js, Node.js, Mongo DB, Express.js, Tailwind.css and Blockchain solidity
-- 🌱 I’m currently learning MERN Stack Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in React.js, Next.js, Node.js, Mongo DB, Express.js, Tailwind.css and Blockchain - Solidity - Solana
+- 💞️ I’m looking to collaborate on MERN stack, Next Js and blockchain projects.
 - 📫 How to reach me Contact me through email bilalarif200@gmail.com or Lets connect on LinkedIn https://www.linkedin.com/in/bilalarif2001/
 
 <!---
