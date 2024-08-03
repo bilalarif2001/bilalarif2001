@@ -5,7 +5,7 @@
 
 - https://niggacoin.io/
 - https://niggacoin.vip/
-- blowfish 2204
+- blowfish ticket number 2204
 
 <!---
 bilalarif2001/bilalarif2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
